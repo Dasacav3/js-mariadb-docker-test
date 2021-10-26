@@ -2,7 +2,7 @@
 
 <div style="display:flex;justify-content:center;">
     <img src="https://api.iconify.design/logos/docker-icon.svg" width="200" />
-    <img src="https://api.iconify.design/akar-icons/plus.svg?color=%23007267" width="200" />
+    <img src="https://api.iconify.design/akar-icons/plus.svg?color=%23007267" width="150" />
     <img src="https://api.iconify.design/logos/mariadb-icon.svg" width="200" />
 </div>
 
